@@ -1,0 +1,25 @@
+form{
+            font-family: 'Lato', sans-serif;
+            width: 60%;
+            font-weight: lighter;
+            margin: 100px auto;
+            
+            
+        }
+
+
+        legend{
+            text-transform: uppercase;
+            padding:20px;
+            font-size: 1.2em;
+            letter-spacing: 0.3em;
+            text-shadow: 2px 2px 7px #bcbebe;
+        }
+
+
+        label{
+            text-transform: uppercase;
+            padding:20px auto;
+            font-size: .8em;
+            letter-spacing: 0.2em;
+        }

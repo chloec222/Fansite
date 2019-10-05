@@ -1,0 +1,97 @@
+div.content{
+            width: 40%;
+            margin-left:40px;
+            float:left;
+        }
+
+
+        img.medium{
+            width: 45%;
+            margin-top: 30px;
+            float:right;
+        }
+
+
+        img.medium2{
+            width: 50%;
+            margin-top: 30px;
+            margin-left: auto;
+            margin-right:30px;
+            float:left;
+        }
+
+
+        div#disco {
+            margin: 50px 0px;
+            clear: both;
+        }
+
+
+        table {
+            border-spacing: 0px;
+            padding: 10px;
+            width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+
+        th,
+        td {
+            padding: 15px 30px;
+            border-spacing: 0px;
+            margin: 0px;
+            text-align: left;
+        }
+
+
+        th#header2{
+            text-align: right;
+        }
+
+    
+        img.small {
+            width: 200px;
+            height: 200px;
+        }
+
+
+        th.header {
+            background-color: rgb(226, 224, 224);
+        }
+
+
+        td#link{
+            text-decoration: none;
+            background-color: #fcfcfc;
+            text-align: right;
+        }
+
+
+        td#link ul{
+            list-style: none;
+        }
+
+        tr.colored {
+            background-color: rgb(16, 49, 88);
+            color: whitesmoke;
+        }
+
+
+        div#links {
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            text-align: center;
+            margin: 30px 0px;
+            padding: 30px;
+            background-color: rgb(226, 224, 224);
+        }
+
+        #footer {
+            padding: 20px 0;
+            text-align: center;
+            text-decoration: none;
+            margin:30px 0px;
+            padding:30px;
+            background-color: rgb(226, 224, 224);  
+        }

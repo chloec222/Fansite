@@ -1,0 +1,150 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Lato', sans-serif;
+    width:100%;
+}
+
+
+h1.heading{
+    letter-spacing: 0.3em;
+    text-shadow: 2px 2px 7px #bcbebe;
+    font-weight: lighter;
+    font-size: 1.70em;
+    position:absolute;
+    margin: 7px;
+}
+
+
+nav ul{
+    text-align: right;
+    padding-top:12px;
+    padding-bottom: 12px;
+    text-transform: uppercase;
+    letter-spacing: .35em;
+    border-top: 2px solid rgb(136, 135, 135);
+    border-bottom: 1px solid rgb(136, 135, 135);     
+}
+
+
+nav li {
+    display:inline;
+    margin-right: 45px;
+}
+
+
+a:link{
+    color:rgb(49, 49, 49);
+    text-decoration: none;
+}
+
+
+a:visited{
+    color:black;
+    text-decoration:none;
+}
+
+
+a:hover{
+    color:rgb(79, 175, 192);
+    text-decoration: none;
+}
+
+
+a:active{
+    color:rgb(131, 42, 50)
+}
+
+
+img.large{
+    width:60%;
+    align-content: left; 
+    margin-top:30px;  
+    padding-top:10px; 
+}
+
+
+h1#headline{
+    font-weight:lighter;
+    text-transform: uppercase;
+    font-size: 120%;
+    border-bottom: 1px solid gray;
+    padding: 0px 10px 10px 0px;
+    margin: 0px auto 20px auto;
+    color: rgb(5, 5, 5);
+    letter-spacing: .1em;
+    text-align: left;
+}
+
+
+blockquote{
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+p{
+    margin:20px;
+}
+
+
+div#biography{
+    width:35%;
+    margin:2.5%;
+    float:right;
+}
+
+
+div#disco{
+    margin: 50px 0px; 
+    clear:both;  
+}
+
+
+table{
+    border-spacing: 0px;
+    padding:10px;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+th,td{
+    padding: 15px 30px;
+    border-spacing:0px;
+    margin:0px;
+    text-align: left;   
+}
+
+
+img.small{
+    width: 200px;
+    height:200px;
+}
+
+
+th.header{
+    background-color:rgb(226, 224, 224);
+}
+
+
+div iframe{
+    display:inline;
+}
+
+
+div#links{
+    text-transform: uppercase;
+    letter-spacing: 0.1em; 
+    margin:30px 0px;
+    padding:30px;
+    background-color: rgb(226, 224, 224);  
+    text-align: center;
+}
+
+#footer {
+  padding: 20px 0;
+  text-align: center;
+  text-decoration: none;
+}
+
